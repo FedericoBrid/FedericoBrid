@@ -130,6 +130,10 @@ The project was developed using the **MVC architectural pattern**, with PHP hand
 
 [GitHub](https://github.com/FedericoBrid)
 
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/federicobrid)
+
 </div>
 
 ---
