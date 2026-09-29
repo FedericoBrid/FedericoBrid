@@ -77,6 +77,32 @@ I'm currently strengthening my backend skills and expanding my knowledge of soft
 
 ## 🚀 Featured Projects
 
+### Donar+
+
+Blood donation management platform originally developed with PHP/MVC and currently being modernized into a Full Stack application.
+
+**Backend:** Java · Spring Boot · Spring Security · JWT · MySQL · Swagger/OpenAPI
+
+**Frontend:** React · Vite
+
+- [Backend Repository](https://github.com/FedericoBrid/donar-api)
+
+---
+
+### Donar App
+
+Web application developed for managing **blood donation requests and connecting donors with blood donation centers**.
+
+The application allows users to register, manage donation requests and search for compatible blood donation opportunities based on blood type.
+
+The project was developed using the **MVC architectural pattern**, with PHP handling the backend logic and MySQL for data persistence.
+
+**PHP · MVC · PDO · MySQL · Bootstrap**
+
+🔒 **Private Repository**
+
+---
+
 ### Employee Management
 
 Full Stack application for managing employees, developed with a **Spring Boot REST API** and React frontend.
@@ -106,19 +132,6 @@ It was developed following a layered architecture, separating controllers, servi
 
 ---
 
-### Donar App
-
-Web application developed for managing **blood donation requests and connecting donors with blood donation centers**.
-
-The application allows users to register, manage donation requests and search for compatible blood donation opportunities based on blood type.
-
-The project was developed using the **MVC architectural pattern**, with PHP handling the backend logic and MySQL for data persistence.
-
-**PHP · MVC · PDO · MySQL · Bootstrap**
-
-🔒 **Private Repository**
-
----
 
 ## 📫 Contact
 
