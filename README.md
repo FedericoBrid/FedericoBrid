@@ -81,11 +81,12 @@ I'm currently strengthening my backend skills and expanding my knowledge of soft
 
 Blood donation management platform originally developed with PHP/MVC and currently being modernized into a Full Stack application.
 
-**Backend:** Java · Spring Boot · Spring Security · JWT · MySQL · Swagger/OpenAPI
+**Backend:** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · Swagger/OpenAPI · Docker
 
-**Frontend:** React · Vite
+**Frontend:** React · TypeScript · Vite · Material UI
 
 - [Backend Repository](https://github.com/FedericoBrid/donar-api)
+- [Frontend Repository](https://github.com/FedericoBrid/donar-api-frontend)
 
 ---
 
@@ -131,7 +132,6 @@ It was developed following a layered architecture, separating controllers, servi
 - [Repository](https://github.com/FedericoBrid/ChallengeSupermarket)
 
 ---
-
 
 ## 📫 Contact
 
